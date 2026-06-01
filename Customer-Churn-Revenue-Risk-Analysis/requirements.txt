@@ -1,0 +1,29 @@
+Customer-Churn-Revenue-Risk-Analysis/
+│
+├── data/
+├── sql/
+│   ├── churn_queries.sql
+│
+├── notebooks/
+│   ├── data_cleaning.ipynb
+│   ├── eda.ipynb
+│
+├── dashboard/
+│   ├── tableau_dashboard.twb
+│
+├── visuals/
+│
+├── README.md
+│
+└── requirements.txt
+
+
+Tech Stack :-
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+SQL (MySQL)
+Tableau
+Git/GitHub
