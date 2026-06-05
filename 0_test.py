@@ -1,7 +1,5 @@
-import pandas as pd
+import numpy as np
 
-df = pd.read_csv("Amazon.csv")
+arr = np.array([1,2,3,4])
 
-india_df = df[df["Country"] == "India"]
-
-print(india_df)
+print(arr)
